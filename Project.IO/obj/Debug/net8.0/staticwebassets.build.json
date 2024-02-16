@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3SJEHYyXkRCH24vd24vAV7CeRwv0KMA65BRhq8L3qfs=",
+  "Source": "Project.IO",
+  "BasePath": "_content/Project.IO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project.IO\\wwwroot",
+      "Source": "Project.IO",
+      "ContentRoot": "C:\\Pruebas\\SimpleLayerStructure\\Project.IO\\wwwroot\\",
+      "BasePath": "_content/Project.IO",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

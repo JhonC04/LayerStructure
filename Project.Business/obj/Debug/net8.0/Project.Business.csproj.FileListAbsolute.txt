@@ -1,0 +1,15 @@
+C:\Pruebas\SimpleLayerStructure\Project.Business\bin\Debug\net8.0\Project.Business.deps.json
+C:\Pruebas\SimpleLayerStructure\Project.Business\bin\Debug\net8.0\Project.Business.dll
+C:\Pruebas\SimpleLayerStructure\Project.Business\bin\Debug\net8.0\Project.Business.pdb
+C:\Pruebas\SimpleLayerStructure\Project.Business\bin\Debug\net8.0\Project.DataAccess.dll
+C:\Pruebas\SimpleLayerStructure\Project.Business\bin\Debug\net8.0\Project.DataAccess.pdb
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.csproj.AssemblyReference.cache
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.AssemblyInfoInputs.cache
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.AssemblyInfo.cs
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.csproj.CoreCompileInputs.cache
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.csproj.CopyComplete
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.dll
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\refint\Project.Business.dll
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\Project.Business.pdb
+C:\Pruebas\SimpleLayerStructure\Project.Business\obj\Debug\net8.0\ref\Project.Business.dll

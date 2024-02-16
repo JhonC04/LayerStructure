@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project.IO</name>
+    </assembly>
+    <members>
+        <member name="M:APIMAPLED.Controllers.AccountController.Login(Business.DTOs.UserCredentialsDTO)">
+            <summary>Login User</summary>
+            <param name="model">Schema JSON from body</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIMAPLED.Controllers.AccountController.Register(Business.DTOs.RegisterModelDTO)">
+            <summary>Create new user in the database</summary>
+            <param name="model">Schema JSON from body</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIMAPLED.Controllers.AccountController.GetUser(System.String)">
+            <summary>Get User</summary>
+            <param name="UserName">UserName of user</param>
+            <returns></returns>
+        </member>
+        <member name="M:IO.Controllers.TestController.GetCountTest">
+            <summary>Get count tests</summary>
+            <returns></returns>
+        </member>
+        <member name="M:IO.Controllers.TestController.GetTests">
+            <summary>Get tests</summary>
+            <returns></returns>
+        </member>
+        <member name="M:IO.Controllers.TestController.GetTest(System.String)">
+            <summary>Get test</summary>
+            <param name="id">ID of the test</param>
+            <returns></returns>
+        </member>
+        <member name="M:IO.Controllers.TestController.CreateTest(Business.DTOs.TestDTO)">
+            <summary>Create test</summary>
+            <param name="testDTO">Schema JSON from body</param>
+            <returns></returns>
+        </member>
+        <member name="M:IO.Controllers.TestController.DeleteTest(System.String)">
+            <summary>Delete test</summary>
+            <param name="id">ID of the test</param>
+            <returns></returns>
+        </member>
+        <member name="T:Project.IO.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:Project.IO.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Project.IO.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Project.IO.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
