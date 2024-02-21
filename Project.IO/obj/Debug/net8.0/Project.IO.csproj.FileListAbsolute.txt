@@ -19,17 +19,9 @@ C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.EntityFram
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -83,7 +75,6 @@ C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\staticwebassets\msbu
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.IO.props
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\scopedcss\bundle\Project.IO.styles.css
-C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.csproj.CopyComplete
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\refint\Project.IO.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.pdb
@@ -103,8 +94,6 @@ C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Composition.C
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\System.Text.Json.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -157,7 +146,6 @@ C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\ru\Microsoft.CodeAna
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Newtonsoft.Json.dll
@@ -165,3 +153,5 @@ C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Newtonsoft.Json.Bson
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\AutoMapper.dll
 C:\Pruebas\SimpleLayerStructure\Project.IO\bin\Debug\net8.0\Project.IO.xml
 C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.xml
+C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.sourcelink.json
+C:\Pruebas\SimpleLayerStructure\Project.IO\obj\Debug\net8.0\Project.IO.csproj.Up2Date

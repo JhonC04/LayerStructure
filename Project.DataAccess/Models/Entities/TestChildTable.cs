@@ -7,8 +7,6 @@ namespace DataAccess
     {
         [Key]
         public int Id { get; set; }
-
-        [Comment("ForeignKey")]
         public string IdParent { get; set; } = null!;
         public double Doublevalue { get; set; }
 

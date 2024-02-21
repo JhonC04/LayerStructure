@@ -12,3 +12,4 @@ C:\Pruebas\SimpleLayerStructure\Project.DataAccess\obj\Debug\net8.0\Project.Data
 C:\Pruebas\SimpleLayerStructure\Project.DataAccess\obj\Debug\net8.0\ref\Project.DataAccess.dll
 C:\Pruebas\SimpleLayerStructure\Project.DataAccess\bin\Debug\net8.0\Project.DataAccess.runtimeconfig.json
 C:\Pruebas\SimpleLayerStructure\Project.DataAccess\obj\Debug\net8.0\Project.DataAccess.genruntimeconfig.cache
+C:\Pruebas\SimpleLayerStructure\Project.DataAccess\obj\Debug\net8.0\Project.DataAccess.sourcelink.json
